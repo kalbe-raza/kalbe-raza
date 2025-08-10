@@ -1,20 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/kalbe-raza">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="mailto:YOUR_EMAIL_HERE">
+    <a href="mailto:razanaqvi813@gmail.com">
       <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/kalbe-raza-4201052bb/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=kalbe-raza&style=flat-square&color=blue" alt="profile views"/>
   <h1>
-    Hey There — I'm Syed kalbe raza naqvi
+    Hey There — I'm Syed Kalbe Raza Naqvi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -54,11 +54,9 @@ I build and iterate quickly in VS Code and prefer simple, maintainable solutions
 
 ### :fire: My Stats
 
-> Replace `YOUR_GITHUB_USERNAME` in the badges below with your actual GitHub username to show your live stats.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalbe-raza&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=vision-friendly-dark&hide=Jupyter%20Notebook,javascript&langs_count=6)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalbe-raza&layout=donut&theme=vision-friendly-dark&hide=Jupyter%20Notebook,javascript&langs_count=6)](https://github.com/kalbe-raza)
 
 ---
 
@@ -73,28 +71,13 @@ I build and iterate quickly in VS Code and prefer simple, maintainable solutions
 
 - **Remote Command Execution Tool (Course Project)** — a tool prototype for a Computer Networks course to experiment with command dispatch and results collection across hosts. (repo: `rce-tool`)
 
-*(Add links to the repos above by replacing the repo names or turning each into an anchor to your GitHub repo.)*
-
----
-
-### 🌕 Goals
-
-- Secure an internship to gain hands-on experience in full-stack development.
-- Build production-ready React + MUI dashboards and polish front-end skills (Flexbox layouts).
-- Contribute to open-source projects that align with data engineering or web tooling.
-
 ---
 
 ### Contact
 
 I'd love to connect!  
-- Email: `YOUR_EMAIL_HERE`  
-- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`  
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN`
+- Email: `razanaqvi813@gmail.com`  
+- GitHub: `https://github.com/kalbe-raza`  
+- LinkedIn: `https://www.linkedin.com/in/kalbe-raza-4201052bb/`
 
 ---
-
-<!---
-Replace the placeholder values above (YOUR_GITHUB_USERNAME, YOUR_EMAIL_HERE, YOUR_LINKEDIN) with your real info.
---->
-
