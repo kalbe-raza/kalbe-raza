@@ -60,24 +60,3 @@ I build and iterate quickly in VS Code and prefer simple, maintainable solutions
 
 ---
 
-### :zap: Selected Projects
-
-- **Productify (Web App)** — a product-aggregation web app that fetches available products from a centralized DB instead of scraping repeatedly. (repo: `Productify`)  
-  *Focuses:* server-side aggregation, search, and product display.
-
-- **AliExpress Scraper for Gaming Headsets** — scraping scripts that extract product details and save them into CSV for analysis and price comparison. (repo: `ali-scraper`)
-
-- **Order Management Dashboard** — an admin dashboard with summary cards and a paginated table styled to match a specific design (built with MUI + custom CSS). (repo: `order-management-dashboard`)
-
-- **Remote Command Execution Tool (Course Project)** — a tool prototype for a Computer Networks course to experiment with command dispatch and results collection across hosts. (repo: `rce-tool`)
-
----
-
-### Contact
-
-I'd love to connect!  
-- Email: `razanaqvi813@gmail.com`  
-- GitHub: `https://github.com/kalbe-raza`  
-- LinkedIn: `https://www.linkedin.com/in/kalbe-raza-4201052bb/`
-
----
